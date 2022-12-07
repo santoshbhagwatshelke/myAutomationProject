@@ -23,6 +23,7 @@ public class NeoStoxBaseClass
 			driver.get(utilityClass.UtilityNeoStoxProperty.ReadFromPropertyFile("url"));
 			
 			System.out.println("hii hello for github");
+		System.out.println("hii hello for github");
 			
 	}
 }
